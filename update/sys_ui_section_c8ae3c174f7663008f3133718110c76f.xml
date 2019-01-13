@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="visa docs review" section_id="c8ae3c174f7663008f3133718110c76f" sys_domain="global" table="rm_enhancement" version="3" view="extended_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-09 18:27:26</sys_created_on>
+            <sys_id>29bf38174f7663008f3133718110c7ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="visa docs review" display_value="visa docs review" name="rm_enhancement" sys_domain="global" view="a4a108574ff263008f3133718110c75c">c8ae3c174f7663008f3133718110c76f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-09 18:27:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>visa docs review</caption>
+            <header>false</header>
+            <name>rm_enhancement</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-09 18:22:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8ae3c174f7663008f3133718110c76f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>visa docs review</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Online Visa Application" source="x_300454_visa_app">9447fa3a4f3a23008f3133718110c73a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Online Visa Application">9447fa3a4f3a23008f3133718110c73a</sys_scope>
+            <sys_update_name>sys_ui_section_c8ae3c174f7663008f3133718110c76f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-09 18:22:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Extended View" name="extended_view">a4a108574ff263008f3133718110c75c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

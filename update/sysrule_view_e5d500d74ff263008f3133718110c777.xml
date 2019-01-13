@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysrule_view">
+    <sysrule_view action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <device_type>browser</device_type>
+        <match_conditions>ALL</match_conditions>
+        <name>Online visa</name>
+        <order>100</order>
+        <overrides_user_preference>true</overrides_user_preference>
+        <script><![CDATA[(function overrideView(view, is_list) {
+
+	// Add your code here
+	//Force non-itil users to use the ess view
+if (gs.hasRole("visa_creator"))
+{return;}
+if (view.startsWith("Default"))
+{return;}
+// do not change view if it starts with sys_ (e.g. sys_ref_list)
+if (view.startsWith("sys_"))
+{return;}
+answer = "Extended View"; // set the new view to answer
+
+})(view, is_list);]]></script>
+        <sys_class_name>sysrule_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-09 14:17:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e5d500d74ff263008f3133718110c777</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Online visa</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Online Visa Application" source="x_300454_visa_app">9447fa3a4f3a23008f3133718110c73a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online Visa Application">9447fa3a4f3a23008f3133718110c73a</sys_scope>
+        <sys_update_name>sysrule_view_e5d500d74ff263008f3133718110c777</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-09 14:20:42</sys_updated_on>
+        <table>x_300454_visa_app_visa_application</table>
+        <view/>
+    </sysrule_view>
+</record_update>

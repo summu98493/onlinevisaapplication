@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_300454_visa_app_visa_application">visa_status!=1^EQ<item endquery="false" field="visa_status" goto="false" newquery="false" operator="!=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Make all fields read only after send for review</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-10 17:56:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9512caaf4fbe63008f3133718110c7fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Make all fields read only after send for review</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Online Visa Application" source="x_300454_visa_app">9447fa3a4f3a23008f3133718110c73a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online Visa Application">9447fa3a4f3a23008f3133718110c73a</sys_scope>
+        <sys_update_name>sys_ui_policy_9512caaf4fbe63008f3133718110c7fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-10 17:56:58</sys_updated_on>
+        <table>x_300454_visa_app_visa_application</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

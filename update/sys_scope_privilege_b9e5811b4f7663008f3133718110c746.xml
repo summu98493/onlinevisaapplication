@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>write</operation>
+        <source_scope display_value="Online Visa Application">9447fa3a4f3a23008f3133718110c73a</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-09 18:54:29</sys_created_on>
+        <sys_id>b9e5811b4f7663008f3133718110c746</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rm_enhancement</sys_name>
+        <sys_package display_value="Online Visa Application" source="x_300454_visa_app">9447fa3a4f3a23008f3133718110c73a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online Visa Application">9447fa3a4f3a23008f3133718110c73a</sys_scope>
+        <sys_update_name>sys_scope_privilege_b9e5811b4f7663008f3133718110c746</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-09 18:54:29</sys_updated_on>
+        <target_name>rm_enhancement</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

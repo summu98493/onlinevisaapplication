@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="rm_enhancement" version="2" view="visa_docs_review">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Enhancement - visa docs review" name="rm_enhancement" related_list="NULL" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">2697455b4f7663008f3133718110c72e</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>rm_enhancement.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-09 19:01:55</sys_created_on>
+            <sys_id>ea97455b4f7663008f3133718110c72e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-09 19:01:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Enhancement - visa docs review" name="rm_enhancement" related_list="NULL" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">2697455b4f7663008f3133718110c72e</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>rm_enhancement.parent_feature</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-09 19:01:55</sys_created_on>
+            <sys_id>ee97455b4f7663008f3133718110c72e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-09 19:01:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Enhancement - visa docs review" name="rm_enhancement" related_list="NULL" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">2697455b4f7663008f3133718110c72e</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>rm_enhancement.top_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-09 19:01:55</sys_created_on>
+            <sys_id>e297455b4f7663008f3133718110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-09 19:01:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Enhancement - visa docs review" name="rm_enhancement" related_list="NULL" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">2697455b4f7663008f3133718110c72e</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-09 19:01:55</sys_created_on>
+            <sys_id>e697455b4f7663008f3133718110c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-09 19:01:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Enhancement - visa docs review</calculated_name>
+            <filter/>
+            <name>rm_enhancement</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-09 19:01:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2697455b4f7663008f3133718110c72e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Enhancement - visa docs review</sys_name>
+            <sys_package display_value="Online Visa Application" source="x_300454_visa_app">9447fa3a4f3a23008f3133718110c73a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Online Visa Application">9447fa3a4f3a23008f3133718110c73a</sys_scope>
+            <sys_update_name>sys_ui_related_rm_enhancement_visa_docs_review</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-09 19:01:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="visa docs review" name="visa_docs_review">f21f78d34f7663008f3133718110c7dd</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

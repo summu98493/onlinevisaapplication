@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>visa_docs_review</name>
+        <roles>x_300454_visa_app.visa_consulate,x_300454_visa_app.visadocs_verify</roles>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-09 18:24:48</sys_created_on>
+        <sys_id>f21f78d34f7663008f3133718110c7dd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>visa docs review</sys_name>
+        <sys_package display_value="Online Visa Application" source="x_300454_visa_app">9447fa3a4f3a23008f3133718110c73a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online Visa Application">9447fa3a4f3a23008f3133718110c73a</sys_scope>
+        <sys_update_name>sys_ui_view_f21f78d34f7663008f3133718110c7dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-10 01:48:01</sys_updated_on>
+        <title>visa docs review</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

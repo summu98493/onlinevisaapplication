@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-10 19:22:39</sys_created_on>
+        <sys_id>e1e59a6b4ffe63008f3133718110c708</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_300454_visa_app_visa_application.visa_creator</sys_name>
+        <sys_package display_value="Online Visa Application" source="x_300454_visa_app">9447fa3a4f3a23008f3133718110c73a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Online Visa Application">9447fa3a4f3a23008f3133718110c73a</sys_scope>
+        <sys_security_acl display_value="x_300454_visa_app_visa_application">e447f2364f7a23008f3133718110c775</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e1e59a6b4ffe63008f3133718110c708</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-10 19:22:39</sys_updated_on>
+        <sys_user_role display_value="visa_creator" name="visa_creator">b1c12cc24fd223008f3133718110c7a7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

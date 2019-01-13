@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="4b1ffc174f7663008f3133718110c7e5" sys_domain="global" table="rm_enhancement" version="3" view="visa_docs_review">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>process_flow.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>e4d3f4a74f3e63008f3133718110c774</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Process flow">69c6548c7f00000143239a9359b6c410</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>acd3f4a74f3e63008f3133718110c774</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>20d3f4a74f3e63008f3133718110c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>a0d3f4a74f3e63008f3133718110c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>24d3f4a74f3e63008f3133718110c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>a4d3f4a74f3e63008f3133718110c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>28d3f4a74f3e63008f3133718110c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>a8d3f4a74f3e63008f3133718110c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>2cd3f4a74f3e63008f3133718110c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>acd3f4a74f3e63008f3133718110c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>20d3f4a74f3e63008f3133718110c776</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 12:13:58</sys_created_on>
+            <sys_id>a0d3f4a74f3e63008f3133718110c776</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="rm_enhancement" sys_domain="global" view="f21f78d34f7663008f3133718110c7dd">4b1ffc174f7663008f3133718110c7e5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 12:13:58</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>rm_enhancement</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-09 18:24:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b1ffc174f7663008f3133718110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>rm_enhancement</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Online Visa Application" source="x_300454_visa_app">9447fa3a4f3a23008f3133718110c73a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Online Visa Application">9447fa3a4f3a23008f3133718110c73a</sys_scope>
+            <sys_update_name>sys_ui_section_4b1ffc174f7663008f3133718110c7e5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-09 18:24:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="visa docs review" name="visa_docs_review">f21f78d34f7663008f3133718110c7dd</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
