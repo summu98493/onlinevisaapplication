@@ -7,7 +7,7 @@
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu/>
+         <menu/>
         <name>Online Visa Application</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
