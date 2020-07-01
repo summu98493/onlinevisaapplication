@@ -4,4 +4,4 @@
 
 * An approval is triggered to ‘Consulate’ group and state of the request changes to ‘In Review with Consulate’. Any one from ‘Consulate’ group can approve or reject the request. If rejected, request will be closed by moving the state to ‘Rejected’.
 
-* If approved, a new task is generated and assigned to ‘Documents verification’ team for stamping.  At task level, assigned team group members will be able to write comments and update the work notes. Assigned person will see a button ‘Delivered’ on task. Once they click on it, the request will be moved to Delivered and the request is set to ‘Delivered’.
+* If approved, a new task is generated and assigned to ‘Documents verification’ team for stamping.  At task level, assigned team group members will be able to write comments and update the work notes. Assigned person will see a button ‘Delivered’ on task. Once they click on it, the request will be moved to Delivered and the request is set to ‘Delivered’..
