@@ -59,7 +59,7 @@
                 <element label="Delivered" sequence="5" value="6"/>
                 <element label="Pending" sequence="6" value="7"/>
                 <element label="Rejected" sequence="7" value="8"/>
-            </choice>
+             </choice>
         </element>
         <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" label="Visa Type" max_length="40" name="visa_type" type="choice">
             <choice>
