@@ -9,7 +9,7 @@
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
 	// Add your code here
-	return '';  // return the calculated value
+	return '';  // return the calculated values
 
 })(current);]]></calculation>
         <choice/>
